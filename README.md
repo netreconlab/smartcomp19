@@ -14,4 +14,4 @@ This repository contains a *light-weight simulator used to illustrate the use of
 
 For more information about the simulator, please refer to our paper. If you use this simulator or code in your own work, we are happy to receive a citation.
 
-Oluwashina Madamori, Esther Max-Onapkoya, Christan Grant, and Corey Baker, “**Using Delay Tolerant Networks as a Backbone for Low-cost Smart Cities**,” to appear in the *5th IEEE International Conference on Smart Computing (SMARTCOMP 2019)*, June 2019, Washington D.C., USA. [[PDF]([URL])]
+Oluwashina Madamori, Esther Max-Onapkoya, Christan Grant, and Corey Baker, “**Using Delay Tolerant Networks as a Backbone for Low-cost Smart Cities**,” to appear in the *5th IEEE International Conference on Smart Computing (SMARTCOMP 2019)*, June 2019, Washington D.C., USA. [[PDF]([/])]
